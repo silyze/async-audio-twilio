@@ -1,6 +1,6 @@
 {
   "name": "@silyze/async-audio-twilio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Twilio wrapper for @silyze/async-audio-stream",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,7 +27,7 @@
     "@mojsoski/assert": "^1.0.0",
     "@mojsoski/async-stream": "^1.0.0",
     "@mojsoski/async-websocket-stream": "^1.0.2",
-    "@silyze/async-audio-format-ulaw": "^1.0.0",
+    "@silyze/async-audio-format-ulaw": "^1.0.1",
     "@silyze/async-audio-stream": "^1.0.1"
   }
 }
